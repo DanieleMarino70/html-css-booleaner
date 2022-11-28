@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.header-container{
+    display: block;
+    height: 170px;
+    background-color: rgb(78, 160, 255);
+    background-image: url('../img/pattern.png');
+    background-position: top right;
+}
+
+
+
+.logo{
+    margin-left: 10px;
+    background-image: url(../img/logo.svg);
+    background-repeat: no-repeat;
+    background-size: 300px;
+    background-position: bottom left;
+    height: 90%;
+    
+    
+}
+    
+    
