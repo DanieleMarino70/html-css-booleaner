@@ -119,3 +119,28 @@ table{
 .subtitle{
     color: gray;
 }
+
+.footer-title{
+    color: gray;
+    font-size: 24px;
+    margin-bottom: 10px;
+
+}
+
+.footer-first-image{
+    background-image: url('../img/monitor.jpg');
+    background-repeat: no-repeat;
+    height: 200px;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.footer-second-image{
+    background-image: url('../img/graph.jpg');
+    background-repeat: no-repeat;
+    height: 200px;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
