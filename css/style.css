@@ -18,6 +18,11 @@ h1{
     
 }
 
+ul{
+    padding: 0;
+    list-style: inside;
+}
+
 table{
     font-size: 16px;
 }
@@ -84,37 +89,19 @@ table{
  } 
 
  
-
- .first-cell{
-    display: inline-block;
-    width: 25%;
-    
-    
-    
-    
-
-}
-
-.second-cell{
-    display: inline-block;
-    width: 25%;
-
-    
-}
-
-.third-cell{
-    display: inline-block;
-    width: 48%;
-} 
  
 .table-container{
-    margin-top: 10px;
-    margin-bottom: 10px;
+    text-align: left;
+    border-collapse: collapse;
+    margin: 20px auto;
+    
 }
 
-.highlighted{
-    background-color: #FFFF00
+.width-50{
+    width: 50%;
 }
+
+
 
 .subtitle{
     color: gray;
